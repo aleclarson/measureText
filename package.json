@@ -12,7 +12,7 @@
   "dependencies": {
     "OneOf": "aleclarson/OneOf#1.0.0",
     "Promise": "aleclarson/Promise#2.0.0",
-    "assertTypes": "aleclarson/assertTypes#1.0.0",
+    "assertTypes": "aleclarson/assertTypes#2.0.0",
     "isDev": "aleclarson/isDev#1.0.0",
     "postinstall-build": "0.2.x"
   },
